@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hangi Renk</string>
+    <string name="flash_on">Flash Aç</string>
+    <string name="flash_off">Flash Kapa</string>
+    <string name="camera_permission">Kamera İzni</string>
+    <string name="camera_permission_text">Uygulamanın çalışması için kamera iznini vermelisiniz.</string>
+    <string name="go_settings">Ayarlara Git</string>
+    <string name="exit">Uygulamadan Çık</string>
+</resources>
